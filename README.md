@@ -89,4 +89,4 @@ Buka folder proyek menggunakan browser (Google Chrome, Mozilla Firefox, Microsof
 
 Klik dua kali pada file index.html atau drag-and-drop file index.html ke dalam browser.
 
-Diverifikasi oleh: Ketua Program Studi Teknik Informatika — Dr. Ir. Ananto Tri Sasongko., M.Sc.
+# Diverifikasi oleh: Ketua Program Studi Teknik Informatika — Dr. Ir. Ananto Tri Sasongko., M.Sc.
